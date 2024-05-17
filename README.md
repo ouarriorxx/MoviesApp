@@ -1,24 +1,20 @@
 # MoviesApp-
 
-The goal of this project is to create a mobile streaming application using React Native. This application offers the possibility to browse a list of films, access detailed information about each of them, select our favorite films, and finally watch the trailers by clicking on their image.
+The goal of this project is to create a streaming application using React Native. This application offers the possibility to browse a list of films, access detailed information about each of them, select our favorite films, and finally watch the trailers by clicking on their image.
 
 # Interface example
 
 -List of films
 
-![image](https://github.com/Ennia-Fahd/MoviesApp-ReactNative/assets/92646945/58ae9eeb-81ee-47d6-9498-45b0d4c9dbac)
+![WhatsApp Image 2024-05-17 à 10 54 20_cae9ce6a](https://github.com/ouarriorxx/MoviesApp/assets/143946046/f52d9cd4-cdf9-4290-bb9a-5c1684d0abca)
 
 -Search for the movie
 
-![image](https://github.com/Ennia-Fahd/MoviesApp-ReactNative/assets/92646945/9029ea6d-8ffa-4ac9-8886-1f681dd5c3e1)
-
--Movie details
-
-![image](https://github.com/Ennia-Fahd/MoviesApp-ReactNative/assets/92646945/852244e8-e589-4558-93a7-5f4afae30f95)
+![WhatsApp Image 2024-05-17 à 10 57 22_eefc6e47](https://github.com/ouarriorxx/MoviesApp/assets/143946046/53457dd5-30a1-42ac-bc22-aa74cb020c16)
 
 -Trailer of the film
 
-![image](https://github.com/Ennia-Fahd/MoviesApp-ReactNative/assets/92646945/113c2793-8254-4ca8-9c4d-935300e5ea7c)
+![WhatsApp Image 2024-05-17 à 10 56 23_6f42dc39](https://github.com/ouarriorxx/MoviesApp/assets/143946046/11cd3de8-56dd-40b6-a0a8-aca10c7ba568)
 
 
 
