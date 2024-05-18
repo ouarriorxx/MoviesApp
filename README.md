@@ -2,6 +2,8 @@
 
 The goal of this project is to create a streaming application using React Native. This application offers the possibility to browse a list of films, access detailed information about each of them, select our favorite films, and finally watch the trailers by clicking on their image.
 
+https://github.com/ouarriorxx/MoviesApp/assets/143946046/3afb9881-c858-4547-ac25-7ce0875c730e
+
 # Interface example
 
 -List of films
